@@ -1,1 +1,1 @@
-# a11y-zine.github.io
+# a11y-zine
